@@ -1,1 +1,1 @@
-# Double-Pipe-H.Ex.
+This project aims to design and develop and manufacture the best possible Heat Exchanger with the minimal expenditure.The project involved the manufacturing and testing of a double-pipe heat exchanger at a laboratory scale.The iterations for the calculations of the dimensions and other parametrs of the hearexchanger were performed using Microsoft Excel, guided by an algorithm for the iteration (performed using C language). The final model was prepared in accordance with the calculations and design developed throughout the project duration.
